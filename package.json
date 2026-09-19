@@ -1,0 +1,9 @@
+{
+  "name": "bus-booking-system",
+  "version": "1.0.0",
+  "description": "Initial database schema for a Bus Booking System",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["nodejs", "mysql", "bus-booking", "sql"],
+  "license": "ISC"
+}
